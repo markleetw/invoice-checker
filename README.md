@@ -1,4 +1,4 @@
-# Taiwan Uniform Invoice Lottery Check
+# Taiwan Uniform Invoice Lottery Checker
 
 ## Summary
 
