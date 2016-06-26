@@ -1,8 +1,8 @@
-# Taiwan Invoice Lottery Check
+# Taiwan Uniform Invoice Lottery Check
 
 ## Summary
 
-Check Taiwan invoice lottery.
+Check Taiwan Uniform Invoice Lottery.
 
 ## Python 2.7
 
@@ -10,12 +10,7 @@ Check Taiwan invoice lottery.
 
 - beautifulsoup4
 
-## Windows Binary Build
-
-- Executable file is available [here](https://github.com/marksylee/PythonTools/blob/master/win_exe/invoice_check.zip?raw=true).
-- Unzip it and execute **invoice_check.exe**.
-
-## Source Build
+## Installation
 
 - Download and install the latest [Python 2](https://www.python.org/downloads/).
 - Install required packages:
@@ -27,7 +22,7 @@ Check Taiwan invoice lottery.
 - Input your invoice numbers (from right to left).
 - The program will check the numbers everytime after you press any key.
 - You don't need to input full invoice numbers unless you hit the jackpot.
-- When dialogue popup, read it and press Enter (auto reset input and focus).
+- When dialogue popup, read it and press Enter (auto clean text and focus on field).
 
 ## Example
 
